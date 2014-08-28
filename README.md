@@ -11,3 +11,7 @@ This script will create a set of environment variables for every Cache instance 
 	{instance-name}CC =  cconsole.log file
 	{instance-name}DIR = installation directory
 
+To execute the script, source the file (simply executing it will not work):
+
+	. ./cache-instance-vars.sh
+
